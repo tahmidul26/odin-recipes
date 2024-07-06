@@ -1,0 +1,1 @@
+Creating 1st project of The Odin Project
